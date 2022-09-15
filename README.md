@@ -8,3 +8,7 @@ A simple project to practice a few git/github workflows.  Replace the contents o
 
 Rather than using a centralized administrative group controling security, software engineers can support security efforts from the bottom up. Software engineers know enterprise risk management and threat modeling to cooperate with the software security team. Performance and reliability is usually given a lot of consideration, security should be treated in the same way. Security should be incorporated as a property in the system, a necessary component in the engineering process, rather than a feature.
 >Xi Liu
+
+Super excited about starting to develop the group project!!
+
+>Yuewen
